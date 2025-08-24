@@ -1,6 +1,6 @@
 {
   "sessionId": "session_1756017286644",
-  "timestamp": "2025-08-24T06:42:47.231Z",
+  "timestamp": "2025-08-24T06:44:47.225Z",
   "gameHistory": [
     "DM: As the elder elf finishes his enigmatic challenge, Tater, driven by his warrior's spirit, channels his strength into a powerful punch, aiming for a nearby tree trunk. His massive fist connects with a ..."
   ],
@@ -11,6 +11,5 @@
     "gold": 0
   },
   "currentLocation": "",
-  "lastSaved": "2025-08-24T06:42:48.250Z",
-  "lastUpdatedType": "metadata"
+  "lastSaved": "2025-08-24T06:44:47.225Z"
 }
