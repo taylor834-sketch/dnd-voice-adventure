@@ -1,6 +1,6 @@
 {
   "sessionId": "session_1756054636968",
-  "timestamp": "2025-08-24T22:28:13.373Z",
+  "timestamp": "2025-08-24T22:30:13.364Z",
   "gameHistory": [],
   "playerStats": {
     "level": 1,
@@ -8,6 +8,5 @@
     "health": 100
   },
   "currentLocation": "The Crossroads Inn",
-  "lastSaved": "2025-08-24T22:28:14.760Z",
-  "lastUpdatedType": "metadata"
+  "lastSaved": "2025-08-24T22:30:13.364Z"
 }
