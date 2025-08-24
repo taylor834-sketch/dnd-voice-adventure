@@ -1,9 +1,15 @@
 {
   "sessionId": "session_1756018006822",
-  "timestamp": "2025-08-24T06:48:47.913Z",
-  "gameHistory": [],
-  "playerStats": {},
+  "timestamp": "2025-08-24T06:54:47.228Z",
+  "gameHistory": [
+    "DM: As Tater and Tatert steel themselves for the perilous journey ahead, the shimmering sprite nods in approval, her ethereal form pulsing with renewed vigor. \"Brave warriors, follow me,\" she beckons, her..."
+  ],
+  "playerStats": {
+    "totalPlayTime": 0,
+    "sessionsPlayed": 0,
+    "experience": 0,
+    "gold": 0
+  },
   "currentLocation": "",
-  "lastSaved": "2025-08-24T06:52:48.122Z",
-  "lastUpdatedType": "party"
+  "lastSaved": "2025-08-24T06:54:47.228Z"
 }
