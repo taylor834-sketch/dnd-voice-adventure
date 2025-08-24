@@ -1,0 +1,14 @@
+[
+  {
+    "id": "main-character",
+    "name": "Hero",
+    "race": "Human",
+    "class": "Fighter",
+    "level": 1,
+    "hitPoints": 100,
+    "experiencePoints": 0,
+    "background": "",
+    "notes": "",
+    "isMainCharacter": true
+  }
+]
