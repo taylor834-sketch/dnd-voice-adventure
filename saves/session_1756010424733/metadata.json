@@ -1,6 +1,6 @@
 {
   "sessionId": "session_1756010424733",
-  "timestamp": "2025-08-24T05:15:15.222Z",
+  "timestamp": "2025-08-24T05:21:15.221Z",
   "gameHistory": [],
   "playerStats": {
     "totalPlayTime": 0,
@@ -9,6 +9,5 @@
     "gold": 0
   },
   "currentLocation": "",
-  "lastSaved": "2025-08-24T05:15:16.266Z",
-  "lastUpdatedType": "metadata"
+  "lastSaved": "2025-08-24T05:21:15.221Z"
 }
